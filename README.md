@@ -1,84 +1,163 @@
-<h1 align="center">Hi 👋, I'm Muhammad Waqas</h1>
-<h3 align="center">AI Automation Consultant | Python Developer | Founder @ Nextgen Automations</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+Automation+Workflows;n8n+%2B+Claude+API+%2B+Python;Scraping+%2B+Lead+Gen+%2B+AI+SaaS;Founder+%40+Nextgen+Automations" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C4CE4&height=220&section=header&text=Muhammad%20Waqas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Consultant%20%7C%20Founder%20%40%20Nextgen%20Automations&descAlignY=58&descSize=20"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Automation+Pipelines;Lead+Generation+%2B+Cold+Outreach+Systems;Data+Scraping+%2B+n8n+%2B+Claude+API;Founder+%40+Nextgen+Automations" alt="Typing SVG" />
+
+<a href="https://www.linkedin.com/in/muhammad-waqas-637b95386" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.fiverr.com/mwaqas157" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+<a href="https://nextgenautomation.online" target="_blank"><img src="https://img.shields.io/badge/-Nextgen%20Automations-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+</div>
+
+<br>
 
 ### 🧭 About Me
 
-- 🤖 AI Automation Consultant at **Adcept Marketing** (Australia), working remotely
-- 🚀 Founder of **[Nextgen Automations](https://nextgenautomation.online)** — an AI automation agency building custom workflows, scrapers, and AI agents for clients in the UK, USA, Germany, and Italy
-- 🎓 BS Computer Science student at **UET Taxila** (2023–2027)
-- 💼 Active freelancer on **[Fiverr](https://www.fiverr.com/mwaqas157)** — automation, scraping, and AI agent services
-- 🐍 ~3 years of hands-on Python experience
-- 🎯 Long-term goal: professional Data Engineer, building AI SaaS products, and working with international remote clients
+```yaml
+Name:          Muhammad Waqas
+Role:          AI Automation Consultant @ Adcept Marketing (Australia, remote)
+Founder:       Nextgen Automations — AI automation agency
+Education:     BS Computer Science, UET Taxila (2023 - 2027)
+Experience:    ~3 years building with Python
+Focus:         AI Agents · Lead Generation · Data Pipelines · Workflow Automation
+Markets:       UK · USA · Germany · Italy · UAE
+Goal:          Data Engineer · AI SaaS Builder · Global Remote Clients
+```
 
----
-
-### 🔨 Currently Working On
-
-- Building end-to-end cold outreach automation pipelines (scraping → enrichment → AI personalization → email sending)
-- Designing AI agents using Claude API and n8n for real business use cases
-- Exploring data engineering tools (Snowflake, dbt) to move into data engineering roles
-
----
+<br>
 
 ### 🛠️ Tech Stack
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<div align="center">
 
-**Automation & AI**
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Apollo.io](https://img.shields.io/badge/-Apollo.io-6C4CE4?style=for-the-badge)
+![Instantly.ai](https://img.shields.io/badge/-Instantly.ai-1A1A1A?style=for-the-badge)
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-1F2937?style=for-the-badge)
 
-**Data & Cloud**
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+</div>
 
-**Outreach & CRM Tools**
-![Apollo.io](https://img.shields.io/badge/-Apollo.io-6C4CE4?style=flat-square)
-![Instantly.ai](https://img.shields.io/badge/-Instantly.ai-000000?style=flat-square)
-![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-1F2937?style=flat-square)
+<br>
 
----
+### 🚀 Featured Projects
 
-### 📌 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name]** | One-line description of what it does and the problem it solves | Python, n8n, Claude API |
-| **[Project Name]** | One-line description — e.g. scrapes and enriches business leads into a live dashboard | Playwright, Python |
-| **[Project Name]** | One-line description — e.g. AI agent that automates client email replies | Claude API, n8n |
+**🎯 Cold Outreach & Lead Gen Pipeline**
 
-> Replace the rows above with links to your 3–6 best repos, each with its own polished README, screenshots, and a live demo link if available.
+End-to-end automated pipeline that scrapes and enriches leads, then runs AI-personalized cold email campaigns for beauty salon and spa clients across UAE, UK, and USA.
 
----
+`Apollo.io` `n8n` `Claude API` `Instantly.ai`
+
+</td>
+<td width="50%">
+
+**📞 Nextgen Call Center — Solar Appointment Setting**
+
+Outbound call center system built for US solar appointment-setting clients, with full dialer + CRM integration and a per-appointment pricing model.
+
+`GoHighLevel` `ReadyMode` `Cold Calling Scripts`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🕷️ Real-Time Stock & Data Scraping Pipeline**
+
+Automated monitoring pipeline that scrapes live product/stock data and pushes real-time alerts straight to Discord for a Fiverr client.
+
+`Playwright` `Groq` `Discord Webhooks` `Python`
+
+</td>
+<td width="50%">
+
+**🤖 AI Agent Deployment (OpenClaw)**
+
+Deployed and configured an OpenClaw-based AI agent for a US-based client, automating Telegram-driven workflows on a live production machine.
+
+`OpenClaw` `Telegram API` `AI Agents`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📄 AI CV Tailoring Chrome Extension**
+
+Chrome extension that tailors resumes to job descriptions in real time, with PDF upload, multiple templates, and drag-and-drop editing.
+
+`Groq API` `Chrome Extension` `JavaScript`
+
+</td>
+<td width="50%">
+
+**💬 NLP Language Tools**
+
+A language translation tool and a FAQ chatbot built using classic NLP techniques, developed and packaged during an AI internship.
+
+`Python` `NLTK` `TF-IDF`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Waqas-Ai-Engineer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Ai-Engineer&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Waqas-Ai-Engineer&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Waqas-Ai-Engineer&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Waqas-Ai-Engineer&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Waqas-Ai-Engineer/Waqas-Ai-Engineer/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<br>
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.fiverr.com/mwaqas157" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white"/></a>
-  <a href="https://nextgenautomation.online" target="_blank"><img src="https://img.shields.io/badge/-Nextgen%20Automations-2E9EF7?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-waqas-637b95386" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.fiverr.com/mwaqas157" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+<a href="https://nextgenautomation.online" target="_blank"><img src="https://img.shields.io/badge/-Website-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Waqas-Ai-Engineer&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C4CE4,100:2E9EF7&height=100&section=footer"/>
