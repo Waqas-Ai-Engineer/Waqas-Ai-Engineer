@@ -593,15 +593,17 @@ I design automated pipelines that combine scraping, data processing, AI analysis
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://v0-portfolio-website-build1-4t5j.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F5A0?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/muhammad-waqas-637b95386
+
+">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:waqasaps001@gmail.com">
 <img src="https://img.shields.io/badge/📩%20EMAIL-FF4D8D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
