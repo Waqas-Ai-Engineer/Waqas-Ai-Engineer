@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Waqas-Ai-Engineer">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B1026,100:071A17&text=Muhammad%20Waqas&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20n8n%20%7C%20Python%20%7C%20AI%20Agents&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -20,7 +20,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Waqas-Ai-Engineer">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=850&lines=AI+Automation+Engineer+%F0%9F%A4%96;Building+Intelligent+n8n+Workflows+%E2%9A%99%EF%B8%8F;Python+Automation+%F0%9F%90%8D;AI+Agents+%F0%9F%A7%A0;Lead+Generation+Systems+%F0%9F%8E%AF;Web+Scraping+%26+Business+Automation+%F0%9F%8C%90" />
 
@@ -28,7 +28,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00F5A0&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Waqas-Ai-Engineer&label=PROFILE%20VIEWS&color=00F5A0&style=for-the-badge" />
 
 <br><br>
 
@@ -36,8 +36,12 @@
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F5A0?style=for-the-badge&logoColor=black"/>
 </a>
 
-<a href="www.linkedin.com/in/muhammad-waqas-637b95386">
+<a href="https://www.linkedin.com/in/muhammad-waqas-637b95386">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.fiverr.com/mwaqas157">
+<img src="https://img.shields.io/badge/🟢%20FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
 <a href="mailto:waqasaps001@gmail.com">
@@ -61,6 +65,8 @@
 </div>
 
 I build **AI-powered automation systems** that help businesses reduce repetitive work, generate leads, automate operations, connect their tools, and turn manual processes into scalable workflows.
+
+Currently working as an **AI Automation Consultant** and running my own automation agency, **Nextgen Automations** — helping international clients replace manual processes with intelligent systems. Long-term, I'm growing into **Data Engineering** and building my own **AI SaaS products**.
 
 My focus is on building practical systems using:
 
@@ -222,7 +228,7 @@ Automated Follow-ups
 
 `Python` `n8n` `AI Agents` `Selenium` `APIs` `Google Sheets` `Gmail`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-lead-generation-engine">
+<a href="https://github.com/Waqas-Ai-Engineer/ai-lead-generation-engine">
 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
 
@@ -258,7 +264,7 @@ Automated Report
 
 `Python` `AI` `BeautifulSoup` `Selenium` `APIs` `n8n`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-website-audit-agent">
+<a href="https://github.com/Waqas-Ai-Engineer/ai-website-audit-agent">
 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -294,7 +300,7 @@ CRM / Database
 
 `n8n` `AI Agents` `OpenAI` `Gmail` `Webhooks` `APIs`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/n8n-ai-sales-agent">
+<a href="https://github.com/Waqas-Ai-Engineer/n8n-ai-sales-agent">
 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF4D8D?style=for-the-badge&logo=n8n&logoColor=white"/>
 
@@ -321,7 +327,7 @@ CRM / Database
 ✓ Logging
 ```
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/python-web-scraping-engine">
+<a href="https://github.com/Waqas-Ai-Engineer/python-web-scraping-engine">
 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -355,7 +361,7 @@ CRM / Database
 
 `Python` `n8n` `AI Agents` `PostgreSQL` `APIs` `Docker`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-business-automation-platform">
+<a href="https://github.com/Waqas-Ai-Engineer/ai-business-automation-platform">
 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -370,10 +376,8 @@ CRM / Database
 ### 🤖 AI & AUTOMATION
 
 <a href="https://n8n.io/">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</a>
-
 <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+</a>
 
 <br><br>
 
@@ -542,9 +546,9 @@ I design automated pipelines that combine scraping, data processing, AI analysis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Waqas-Ai-Engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Ai-Engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF" height="180"/>
 
 </div>
 
@@ -552,7 +556,7 @@ I design automated pipelines that combine scraping, data processing, AI analysis
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Waqas-Ai-Engineer&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0" width="70%"/>
 
 </div>
 
@@ -597,8 +601,12 @@ I design automated pipelines that combine scraping, data processing, AI analysis
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F5A0?style=for-the-badge"/>
 </a>
 
-<a href="www.linkedin.com/in/muhammad-waqas-637b95386">
+<a href="https://www.linkedin.com/in/muhammad-waqas-637b95386">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.fiverr.com/mwaqas157">
+<img src="https://img.shields.io/badge/🟢%20FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
 <a href="mailto:waqasaps001@gmail.com">
@@ -619,7 +627,7 @@ I design automated pipelines that combine scraping, data processing, AI analysis
 
 <br>
 
-<a href="YOUR_CONTACT_URL">
+<a href="https://v0-portfolio-website-build1-4t5j.vercel.app/">
 
 <img src="https://img.shields.io/badge/🚀%20START%20A%20PROJECT-00F5A0?style=for-the-badge&logoColor=black"/>
 
