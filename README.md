@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Waqas-Ai-Engineer">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B1026,100:071A17&text=Muhammad%20Waqas&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20n8n%20%7C%20Python%20%7C%20AI%20Agents&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -20,7 +20,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Waqas-Ai-Engineer">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=850&lines=AI+Automation+Engineer+%F0%9F%A4%96;Building+Intelligent+n8n+Workflows+%E2%9A%99%EF%B8%8F;Python+Automation+%F0%9F%90%8D;AI+Agents+%F0%9F%A7%A0;Lead+Generation+Systems+%F0%9F%8E%AF;Web+Scraping+%26+Business+Automation+%F0%9F%8C%90" />
 
@@ -28,7 +28,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00F5A0&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Waqas-Ai-Engineer&label=PROFILE%20VIEWS&color=00F5A0&style=for-the-badge" />
 
 <br><br>
 
@@ -231,7 +231,7 @@ flowchart LR
 
 Python n8n AI Agents Selenium APIs Google Sheets Gmail
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-lead-generation-engine">
+<a href="https://github.com/Waqas-Ai-Engineer/ai-lead-generation-engine">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -274,7 +274,7 @@ flowchart TD
 
 Python AI BeautifulSoup Selenium APIs n8n
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-website-audit-agent">
+<a href="https://github.com/Waqas-Ai-Engineer/ai-website-audit-agent">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -314,7 +314,7 @@ flowchart LR
 
 n8n AI Agents OpenAI Gmail Webhooks APIs
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/n8n-ai-sales-agent">
+<a href="https://github.com/Waqas-Ai-Engineer/n8n-ai-sales-agent">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF4D8D?style=for-the-badge&logo=n8n&logoColor=white"/>
 </a>
 
@@ -352,7 +352,7 @@ Features
 
 ✓ Requests ✓ BeautifulSoup ✓ Selenium ✓ Playwright ✓ Pagination ✓ Data Cleaning ✓ Duplicate Detection ✓ CSV / JSON Export ✓ Error Handling ✓ Logging
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/python-web-scraping-engine">
+<a href="https://github.com/Waqas-Ai-Engineer/python-web-scraping-engine">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
@@ -397,7 +397,7 @@ flowchart TB
 
 Python n8n AI Agents PostgreSQL APIs Docker
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-business-automation-platform">
+<a href="https://github.com/Waqas-Ai-Engineer/ai-business-automation-platform">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -611,43 +611,86 @@ flowchart TB
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+
 🤖 AI AGENTS
-
-⚡ n8n AUTOMATION
-
-🎯 LEAD GENERATION
 
 Intelligent decision systems
 
+</td>
+<td align="center" width="33%">
+
+⚡ n8n AUTOMATION
+
 Event-driven workflows
+
+</td>
+<td align="center" width="33%">
+
+🎯 LEAD GENERATION
 
 Prospecting pipelines
 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
 🌐 AI WEBSITE ANALYSIS
-
-🐍 PYTHON AUTOMATION
-
-📧 AUTOMATED OUTREACH
 
 Audit + recommendations
 
+</td>
+<td align="center">
+
+🐍 PYTHON AUTOMATION
+
 Bots + scrapers + APIs
+
+</td>
+<td align="center">
+
+📧 AUTOMATED OUTREACH
 
 Personalized follow-ups
 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
 🔗 BUSINESS INTEGRATIONS
-
-📊 DATA AUTOMATION
-
-🚀 SCALABLE SYSTEMS
 
 Connect tools & services
 
+</td>
+<td align="center">
+
+📊 DATA AUTOMATION
+
 Clean → enrich → act
+
+</td>
+<td align="center">
+
+🚀 SCALABLE SYSTEMS
 
 Build once, improve continuously
 
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=700&color=00F5A0&center=true&vCenter=true&width=850&lines=BUILDING+INTELLIGENT+AUTOMATION+SYSTEMS;AI+%2B+n8n+%2B+PYTHON+%2B+APIs;TURNING+REPETITIVE+WORK+INTO+AUTOMATED+WORKFLOWS" />
+
 </div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00F5A0,50:00C2FF,100:8B5CF6&width=90%" />
 </div>
@@ -656,9 +699,9 @@ Build once, improve continuously
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Waqas-Ai-Engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Ai-Engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF" height="180"/>
 
 </div>
 
@@ -666,7 +709,7 @@ Build once, improve continuously
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Waqas-Ai-Engineer&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0" width="70%"/>
 
 </div>
 
