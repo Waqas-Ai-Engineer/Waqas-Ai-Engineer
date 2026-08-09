@@ -562,11 +562,32 @@ I design automated pipelines that combine scraping, data processing, AI analysis
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<h2>🐍 CONTRIBUTION ACTIVITY</h2>
+
+<p>
+  <i>My GitHub contributions, brought to life.</i>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Waqas-Ai-Engineer/Waqas-Ai-Engineer/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Waqas-Ai-Engineer/Waqas-Ai-Engineer/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Waqas-Ai-Engineer/Waqas-Ai-Engineer/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+
+</picture>
 
 </div>
-
----
 
 # 🌐 CONNECT WITH ME
 
