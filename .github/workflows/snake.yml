@@ -13,17 +13,51 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate GitHub Snake
-        uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?palette=github
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish Snake to output branch
+        shell: bash
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p /tmp/snake-output
+          cp -r dist/. /tmp/snake-output/
+
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git fetch origin output
+            git worktree add /tmp/output-branch output
+          else
+            git worktree add --detach /tmp/output-branch
+            cd /tmp/output-branch
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+
+          cd /tmp/output-branch
+
+          rm -rf ./*
+          cp -r /tmp/snake-output/. .
+
+          git add .
+
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub contribution snake"
+          git push origin HEAD:output
