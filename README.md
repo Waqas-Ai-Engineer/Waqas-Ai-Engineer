@@ -291,12 +291,12 @@ I'm interested in building practical AI systems rather than only training models
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqasaps001&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasaps001&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Waqas-Ai-Engineer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Ai-Engineer&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasaps001&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waqas-Ai-Engineer&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
