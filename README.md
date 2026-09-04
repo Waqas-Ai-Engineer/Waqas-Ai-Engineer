@@ -1,660 +1,381 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Muhammad Waqas</h1>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖-AI%20%26%20Automation-blue" />
+  <img src="https://img.shields.io/badge/🐍-Python%20Developer-yellow" />
+  <img src="https://img.shields.io/badge/⚙️-Automation%20Engineer-green" />
+  <img src="https://img.shields.io/badge/🧠-AI%20%26%20ML-purple" />
+</p>
 
-<!--                    ANIMATED HERO                            -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/Waqas-Ai-Engineer">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B1026,100:071A17&text=Muhammad%20Waqas&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20n8n%20%7C%20Python%20%7C%20AI%20Agents&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-</a>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    TYPING ANIMATION                         -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/Waqas-Ai-Engineer">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=850&lines=AI+Automation+Engineer+%F0%9F%A4%96;Building+Intelligent+n8n+Workflows+%E2%9A%99%EF%B8%8F;Python+Automation+%F0%9F%90%8D;AI+Agents+%F0%9F%A7%A0;Lead+Generation+Systems+%F0%9F%8E%AF;Web+Scraping+%26+Business+Automation+%F0%9F%8C%90" />
-
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Waqas-Ai-Engineer&label=PROFILE%20VIEWS&color=00F5A0&style=for-the-badge" />
-
-<br><br>
-
-<a href="https://v0-portfolio-website-build1-4t5j.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F5A0?style=for-the-badge&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-waqas-637b95386">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.fiverr.com/mwaqas157">
-<img src="https://img.shields.io/badge/🟢%20FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
-
-<a href="mailto:waqasaps001@gmail.com">
-<img src="https://img.shields.io/badge/📩%20HIRE%20ME-FF4D8D?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/waqasaps001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:waqasaps001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 👋 Hello, I'm Muhammad Waqas
+## 🚀 About Me
 
-<div align="center">
+I'm a **Computer Science developer** passionate about building **AI-powered applications, automation systems, intelligent agents, and Python-based solutions**.
 
-### 🤖 AI Automation Engineer
+I work across the complete development lifecycle — from **data collection and APIs to AI processing, automation workflows, databases, deployment, and cloud infrastructure**.
 
-### ⚡ n8n Automation Specialist
+My main focus is turning repetitive business processes into **intelligent, automated systems** that save time and improve productivity.
 
-### 🐍 Python Automation Developer
+> **"Don't just automate tasks — build systems that think, decide, and execute."** 🤖
 
-</div>
+* 🔭 Currently working on **AI Agents, Automation & Lead Generation Systems**
+* 🐍 Strong focus on **Python & AI/ML**
+* ⚙️ Building automation workflows with **n8n**
+* 🤖 Working with **LLMs, AI APIs & AI Agents**
+* 🌐 Experienced in **Web Scraping & Data Automation**
+* 🗄️ Working with **SQL, PostgreSQL, MongoDB & Supabase**
+* ☁️ Exploring **Cloud, Docker, DevOps & AI infrastructure**
+* 💬 Ask me about **Python, AI Automation, n8n, Web Scraping, APIs & AI Agents**
+* 🎯 Goal: **Build scalable AI-powered products that solve real-world business problems**
 
-I build **AI-powered automation systems** that help businesses reduce repetitive work, generate leads, automate operations, connect their tools, and turn manual processes into scalable workflows.
+---
 
-Currently working as an **AI Automation Consultant** and running my own automation agency, **Nextgen Automations** — helping international clients replace manual processes with intelligent systems. Long-term, I'm growing into **Data Engineering** and building my own **AI SaaS products**.
+## 🛠️ Tech Stack
 
-My focus is on building practical systems using:
+### 🐍 Programming & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&perline=6" />
+</p>
+
+### 🤖 AI, Machine Learning & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" />
+</p>
+
+**AI & ML:**
+
+* Machine Learning
+* Artificial Intelligence
+* AI Agents
+* LLM Applications
+* Natural Language Processing
+* Computer Vision
+* Data Analysis
+* Model Integration
+* Prompt Engineering
+
+### ⚙️ Automation & AI Agents
+
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenRouter-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Apify-00A3FF?style=for-the-badge"/>
+</p>
+
+* n8n Automation
+* AI Agent Workflows
+* Multi-Agent Systems
+* Lead Generation Automation
+* Web Scraping Automation
+* API Automation
+* Email Automation
+* CRM Automation
+* Business Process Automation
+
+### 🌐 Web Scraping & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,selenium&perline=2" />
+</p>
+
+**Tools & Libraries:**
+
+* Selenium
+* Playwright
+* BeautifulSoup
+* Requests
+* Pandas
+* REST APIs
+* JSON
+* Webhooks
+* Apify
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis&perline=5" />
+</p>
+
+* PostgreSQL
+* MongoDB
+* MySQL
+* Supabase
+* Firebase
+* Redis
+* SQL
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git&perline=5" />
+</p>
+
+* Docker
+* Linux
+* Nginx
+* GitHub Actions
+* Cloud Deployment
+* VPS Deployment
+* Railway
+* Cloudflare
+* Environment Configuration
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,anaconda&perline=5" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+| Category                       | Technologies                              |
+| ------------------------------ | ----------------------------------------- |
+| 🤖 **AI Agents**               | Python, LLMs, OpenRouter, AI APIs         |
+| ⚙️ **Business Automation**     | n8n, APIs, Webhooks, Python               |
+| 🎯 **Lead Generation Systems** | Apollo, Apify, Google Maps, Web Scraping  |
+| 🕷️ **Web Scraping**           | Selenium, Playwright, BeautifulSoup       |
+| 🧠 **Machine Learning**        | Python, Scikit-learn, TensorFlow, PyTorch |
+| 📊 **Data Processing**         | Pandas, NumPy, SQL                        |
+| 🌐 **API Development**         | Python, REST APIs, Webhooks               |
+| 🗄️ **Database Systems**       | PostgreSQL, MongoDB, MySQL, Supabase      |
+| ☁️ **Cloud Deployment**        | Docker, Linux, Railway, VPS               |
+| 🏢 **ERP Automation**          | Odoo, Python                              |
+| 💬 **Chatbots & Assistants**   | AI APIs, n8n, LLMs                        |
+| 🔄 **Workflow Automation**     | n8n, Python, APIs                         |
+
+---
+
+## 🤖 Featured AI & Automation Projects
+
+### 🎯 AI Lead Generation Machine
+
+An automated lead-generation system designed to discover, enrich, analyze and manage business leads.
+
+**Workflow:**
 
 ```text
-AI Agents
-      +
-n8n Automation
-      +
-Python
-      +
-Web Scraping
-      +
-APIs
-      +
-Business Logic
-      =
-Intelligent Automation Systems
-```
-
----
-
-# 🚀 WHAT I BUILD
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🤖
-
-### AI AGENTS
-
-Intelligent agents that can research, analyze, make decisions and execute actions.
-
-</td>
-
-<td width="33%" align="center">
-
-## ⚡
-
-### n8n AUTOMATION
-
-Complex workflows connecting AI, CRMs, email, databases, APIs and business tools.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🐍
-
-### PYTHON AUTOMATION
-
-Custom automation systems, bots, scrapers, APIs and data-processing pipelines.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center">
-
-## 🎯
-
-### LEAD GENERATION
-
-Automated lead discovery, enrichment, qualification and outreach.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌐
-
-### WEB SCRAPING
-
-Reliable data extraction using Python, Selenium, Playwright and APIs.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🔗
-
-### API INTEGRATIONS
-
-Connecting CRMs, websites, databases, email platforms and AI models.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🧠 MY AUTOMATION PHILOSOPHY
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                     BUSINESS PROBLEM                        │
-│                            ↓                                │
-│                      🔍 DISCOVER                            │
-│                            ↓                                │
-│                       🧠 DESIGN                             │
-│                            ↓                                │
-│                      ⚡ AUTOMATE                             │
-│                            ↓                                │
-│                       🔗 INTEGRATE                           │
-│                            ↓                                │
-│                       🧪 TEST                                │
-│                            ↓                                │
-│                       🚀 DEPLOY                              │
-│                            ↓                                │
-│                       📊 OPTIMIZE                            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# ✨ FEATURED PROJECTS
-
-## 🎯 AI Lead Generation Engine
-
-> Automated lead discovery, enrichment, qualification and outreach system.
-
-```text
-Business Search
-      ↓
 Lead Discovery
       ↓
-Web Scraping
+Data Collection
       ↓
-Data Cleaning
+Lead Enrichment
       ↓
-Email Extraction
+AI Lead Analysis
       ↓
-Website Analysis
+Personalization
       ↓
-AI Qualification
+Outreach
       ↓
-Lead Scoring
+Follow-Up
       ↓
-Personalized Outreach
-      ↓
-Automated Follow-ups
-```
-
-### ⚙️ Built With
-
-`Python` `n8n` `AI Agents` `Selenium` `APIs` `Google Sheets` `Gmail`
-
-<a href="https://github.com/Waqas-Ai-Engineer/ai-lead-generation-engine">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
-
-</a>
-
----
-
-## 🤖 AI Website Audit Agent
-
-> AI-powered website analysis system designed to identify SEO, content, conversion and automation opportunities.
-
-```text
-Website URL
-     ↓
-Website Crawler
-     ↓
-Page Extraction
-     ↓
-SEO Analysis
-     ↓
-Content Analysis
-     ↓
-Technical Analysis
-     ↓
-Business Analysis
-     ↓
-AI Recommendations
-     ↓
-Automated Report
-```
-
-### ⚙️ Built With
-
-`Python` `AI` `BeautifulSoup` `Selenium` `APIs` `n8n`
-
-<a href="https://github.com/Waqas-Ai-Engineer/ai-website-audit-agent">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
----
-
-## ⚡ n8n AI Sales Agent
-
-> AI-powered sales workflow that researches prospects, qualifies leads and prepares personalized outreach.
-
-```text
-New Lead
-   ↓
-Webhook
-   ↓
-Business Research
-   ↓
-AI Analysis
-   ↓
-Lead Qualification
-   ↓
-Personalized Message
-   ↓
-Gmail
-   ↓
-Follow-up
-   ↓
 CRM / Database
 ```
 
-### ⚙️ Built With
+**Technologies:**
 
-`n8n` `AI Agents` `OpenAI` `Gmail` `Webhooks` `APIs`
-
-<a href="https://github.com/Waqas-Ai-Engineer/n8n-ai-sales-agent">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF4D8D?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</a>
+* n8n
+* Python
+* Apollo
+* Apify
+* OpenRouter
+* AI Agents
+* PostgreSQL
+* REST APIs
 
 ---
 
-## 🐍 Python Web Scraping Engine
+### 🤖 Multi-Agent AI System
 
-> Reusable Python automation framework for structured web data extraction.
+Designed an AI-agent architecture where specialized agents handle different business tasks.
 
-### Features
+**Agents include:**
+
+* 🧠 Master Orchestrator
+* 🔎 Lead Finder Agent
+* 🕵️ Data Hunter Agent
+* 📊 Lead Analyst Agent
+* ✍️ Personalization Agent
+* 📧 Outreach Agent
+* 🔄 Follow-Up Agent
+
+The system can route tasks between different AI models and services depending on availability and requirements.
+
+---
+
+### ⚙️ n8n Business Automation
+
+Building automated workflows that connect:
 
 ```text
-✓ Requests
-✓ BeautifulSoup
-✓ Selenium
-✓ Playwright
-✓ Pagination
-✓ Data Cleaning
-✓ Duplicate Detection
-✓ CSV / JSON Export
-✓ Error Handling
-✓ Logging
+Webhooks
+   ↓
+AI Agents
+   ↓
+APIs
+   ↓
+Google Sheets / Database
+   ↓
+CRM
+   ↓
+Email / Notifications
 ```
 
-<a href="https://github.com/Waqas-Ai-Engineer/python-web-scraping-engine">
+Use cases include:
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</a>
-
----
-
-## 🏢 AI Business Automation Platform
-
-> A complete automation architecture combining AI agents, workflows, APIs, databases and business processes.
-
-```text
-                    ┌─────────────────┐
-                    │    DASHBOARD    │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-        ┌─────▼─────┐                 ┌─────▼─────┐
-        │ AI AGENTS │                 │    n8n    │
-        └─────┬─────┘                 └─────┬─────┘
-              │                             │
-       ┌──────┴──────┐              ┌───────┴──────┐
-       │             │              │              │
-   Research      Analysis         CRM           Gmail
-       │             │              │              │
-       └─────────────┴──────────────┴──────────────┘
-```
-
-### ⚙️ Built With
-
-`Python` `n8n` `AI Agents` `PostgreSQL` `APIs` `Docker`
-
-<a href="https://github.com/Waqas-Ai-Engineer/ai-business-automation-platform">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+* Lead generation
+* Data enrichment
+* Email automation
+* CRM synchronization
+* AI-powered customer support
+* Business process automation
+* Automated reporting
 
 ---
 
-# 🛠️ TECH STACK
+### 🕷️ Web Scraping & Data Collection
 
-<div align="center">
+Developing Python-based data collection systems using:
 
-### 🤖 AI & AUTOMATION
+* Selenium
+* Playwright
+* BeautifulSoup
+* Requests
+* Apify
+* Pandas
 
-<a href="https://n8n.io/">
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
-</a>
+Applications include:
 
-<br><br>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-### 🌐 WEB AUTOMATION
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-### 🗄️ DATA & BACKEND
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,fastapi,docker,linux,git,github&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
-</div>
+* Business lead collection
+* Website data extraction
+* Directory scraping
+* Google Maps data
+* Data cleaning & processing
 
 ---
 
-# ⚙️ AUTOMATION WORKFLOW
+## 🧠 AI & Machine Learning
 
-<div align="center">
+I'm interested in building practical AI systems rather than only training models.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00F5A0" width="90%"/>
+### Areas of Interest
 
-<br><br>
-
-| 🔍 DISCOVER |   🧠 DESIGN  | ⚡ AUTOMATE | 🔗 INTEGRATE |  🧪 TEST | 🚀 DEPLOY | 📊 OPTIMIZE |
-| :---------: | :----------: | :--------: | :----------: | :------: | :-------: | :---------: |
-|   Research  | Architecture |    Build   |    Connect   | Validate |   Launch  |   Improve   |
-
-</div>
-
----
-
-# 📈 CASE STUDY
-
-## 🎯 Automated Lead Generation
-
-### The Problem
-
-Finding prospects, researching businesses, collecting contact information and preparing outreach can require a large amount of repetitive manual work.
-
-### The Solution
-
-I design automated pipelines that combine scraping, data processing, AI analysis and workflow automation.
-
-### Architecture
-
-```text
-                  ┌──────────────┐
-                  │ LEAD SOURCES │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   SCRAPER    │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │ DATA CLEANER │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │ AI ANALYSIS  │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │ LEAD SCORING │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   OUTREACH   │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │ FOLLOW-UPS   │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │    CRM / DB  │
-                  └──────────────┘
-```
+* Machine Learning
+* Deep Learning
+* Artificial Intelligence
+* Computer Vision
+* NLP
+* Generative AI
+* LLM Applications
+* AI Agents
+* RAG Systems
+* AI Automation
+* Intelligent Decision Systems
 
 ---
 
-# 💼 SERVICES
+## 📊 GitHub Stats
 
-<div align="center">
-
-| Service                  | What I Build                           |
-| ------------------------ | -------------------------------------- |
-| 🤖 **AI Automation**     | AI agents and intelligent workflows    |
-| ⚡ **n8n Automation**     | Complex business workflows             |
-| 🐍 **Python Automation** | Custom automation and bots             |
-| 🎯 **Lead Generation**   | Scraping, enrichment and qualification |
-| 🌐 **Web Scraping**      | Structured data extraction             |
-| 🔗 **API Integration**   | Connect business tools and platforms   |
-| 📧 **Email Automation**  | Personalized outreach and follow-ups   |
-| 🧠 **AI Agents**         | Research, analysis and task execution  |
-
-</div>
-
----
-
-# 🧩 MY FAVORITE AUTOMATION STACK
-
-```text
-                    ┌───────────────┐
-                    │   AI MODEL    │
-                    │ OpenAI/Gemini │
-                    └───────┬───────┘
-                            │
-                            ▼
-                     ┌────────────┐
-                     │    n8n     │
-                     │ Automation │
-                     └─────┬──────┘
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-             ▼             ▼             ▼
-          Python          APIs          Web
-             │             │          Scraping
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                    ┌─────────────┐
-                    │   Database  │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │   Business  │
-                    │    Action   │
-                    └─────────────┘
-```
-
----
-
-# 🔥 CURRENTLY BUILDING
-
-<div align="center">
-
-```text
-🤖 AI AGENTS
-⚡ n8n AUTOMATION
-🎯 LEAD GENERATION
-🌐 AI WEBSITE ANALYSIS
-🐍 PYTHON AUTOMATION
-📧 AUTOMATED OUTREACH
-🔗 BUSINESS INTEGRATIONS
-```
-
-</div>
-
----
-
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Waqas-Ai-Engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Ai-Engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Waqas-Ai-Engineer&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0" width="70%"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<h2>🐍 CONTRIBUTION ACTIVITY</h2>
-
-<p>
-  <i>My GitHub contributions, brought to life.</i>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waqasaps001&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasaps001&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Waqas-Ai-Engineer/Waqas-Ai-Engineer/output/github-snake-dark.svg"
-  />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasaps001&theme=tokyonight&hide_border=true" />
+</p>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Waqas-Ai-Engineer/Waqas-Ai-Engineer/output/github-snake.svg"
-  />
+---
 
-  <img
-    src="https://raw.githubusercontent.com/Waqas-Ai-Engineer/Waqas-Ai-Engineer/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+## 🐍 Contribution Snake
 
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
-</div>
+---
 
-# 🌐 CONNECT WITH ME
+## 📚 Currently Learning
 
-<div align="center">
+```text
+☁️ Cloud Computing
+    ↓
+🐳 Docker
+    ↓
+⚙️ DevOps
+    ↓
+☸️ Kubernetes
+    ↓
+🤖 AI Infrastructure
+    ↓
+🧠 Advanced AI Agents
+```
 
-<a href="https://v0-portfolio-website-build1-4t5j.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00F5A0?style=for-the-badge"/>
-</a>
+I'm continuously improving my knowledge in:
 
-<a href="https://www.linkedin.com/in/muhammad-waqas-637b95386">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+* Cloud Computing
+* DevOps
+* Kubernetes
+* AI Agent Architecture
+* LLM Engineering
+* Scalable Automation
+* Distributed Systems
 
-<a href="https://www.fiverr.com/mwaqas157">
-<img src="https://img.shields.io/badge/🟢%20FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
+---
+
+## 💼 Open for Collaboration
+
+I'm interested in collaborating on:
+
+* 🤖 AI Agent Projects
+* ⚙️ Automation Systems
+* 🚀 SaaS Products
+* 🎯 Lead Generation Platforms
+* 🐍 Python Applications
+* 🧠 Machine Learning Projects
+* 🌐 Web Applications
+* 🕷️ Web Scraping Projects
+* ☁️ Cloud & DevOps Projects
+* 🔧 Open-Source Projects
+
+---
+
+## 📬 Let's Build Something Great Together
+
+<p align="center">
 
 <a href="mailto:waqasaps001@gmail.com">
-<img src="https://img.shields.io/badge/📩%20EMAIL-FF4D8D?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://github.com/waqasaps001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>🚀 Turning ideas into intelligent, automated systems.</b>
+</p>
 
 ---
 
-# 🚀 HAVE A PROCESS YOU WANT TO AUTOMATE?
+⭐ If you find my projects useful, consider giving them a **star**!
 
-<div align="center">
+**Thanks for visiting my profile! 👋**
 
-### Tell me what you're doing manually.
-
-### I'll help turn it into an intelligent automated workflow.
-
-<br>
-
-<a href="https://v0-portfolio-website-build1-4t5j.vercel.app/">
-
-<img src="https://img.shields.io/badge/🚀%20START%20A%20PROJECT-00F5A0?style=for-the-badge&logoColor=black"/>
-
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Automate+the+boring+stuff+%F0%9F%A4%96;Build+smarter+systems+%E2%9A%A1;Save+time.+Scale+faster.+%F0%9F%9A%80" />
-
-<br><br>
-
-⭐ **Star my repositories if you find them useful.**
-
-</div>
-
----
-
-<div align="center">
-
-### Muhammad Waqas
-
-**AI Automation Engineer**
-
-`AI Automation` · `n8n` · `Python` · `AI Agents` · `Web Scraping` · `APIs`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:071A17,50:0B1026,100:050816"/>
-
-</div>
+<!-- Proudly created by Muhammad Waqas -->
